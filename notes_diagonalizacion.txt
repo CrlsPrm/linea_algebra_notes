@@ -1,0 +1,5 @@
+-LA matriz asociada a una transfomacion es diagonalizables si es expresable como matriz diagonal en otra base.
+-det(A)=productosria_de_v_p
+-D=P⁻¹AP, D=(d_ij) t.q. d_ij=v.p_i, V- i=j , d_ij=0 V- i=/j
+-Para hallar P solo basta con imaginarlo como matrices asociadas a tranformaciones lineales en distintas bases por lo tanto solo se reduce a un problema de cambio de base y hallar D(b1 b1)= P⁻¹(b1 b2)A(b2 b2)P(b2 b1) para facilidad de calculo:
+- A(b2 b2) Es la matriz asociada a la transfomacion lineal (endomorfismo)de base b2(canonica)hacia otro vector en base b2. 
